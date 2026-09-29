@@ -3,6 +3,11 @@
 Chaque version publiée a sa section ici : l'outil de publication refuse une version qui n'en
 a pas, et c'est ce texte qui accompagne la version sur GitHub.
 
+## 1.0.1
+
+- **Correction :** le chat n'affiche plus le mot « null » au-dessus de tes messages quand ils
+  n'ont pas de fichier joint.
+
 ## 1.0.0
 
 Mise aux normes pour la publication sur la boutique des modules de Thunderbird
