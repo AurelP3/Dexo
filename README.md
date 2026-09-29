@@ -7,6 +7,16 @@ Il lit, trie et prépare tes mails avec un modèle d'intelligence artificielle l
 Pensé pour le bureau d'études d'une entreprise du bâtiment — chantiers, comptes rendus,
 plans —, utile à quiconque reçoit beaucoup de courrier.
 
+![Le chat de DEXO : résumé des mails non lus, lecture d'une pièce jointe, réponse préparée](captures/chat.png)
+
+*Demande en français, DEXO s'occupe du reste : il résume tes mails non lus, lit les PDF joints,
+repère l'urgent et prépare ta réponse. Tu relis, tu envoies. Tout reste sur ton ordinateur.*
+
+| Les règles | Le fil |
+|---|---|
+| ![L'éditeur de règles : une règle « par chantier »](captures/regles.png) | ![Le fil : comptes rendus, devis, rangements douteux](captures/fil.png) |
+| Une seule règle pour tous tes chantiers : chaque mail rejoint le bon dossier, reconnu à son numéro ou à son nom. Tu la simules avant de l'activer, et tu annules d'un clic. | L'essentiel sans ouvrir chaque mail : actions tirées des comptes rendus, devis repérés avec leur montant, rangements douteux corrigés d'un clic. |
+
 ## Ce que fait DEXO
 
 - **Un chat dans Thunderbird.** « Résume les mails non lus d'aujourd'hui », « range ce mail
