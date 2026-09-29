@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "dexo@dexo.local": {
+      "updates": [
+        {
+          "version": "0.1.18",
+          "update_link": "https://github.com/AurelP3/Dexo/releases/download/v0.1.18/dexo.xpi",
+          "update_hash": "sha256:a69154a0c9a97c0f5f7383eb76ed486bcf09f6cfddebc41542c0cea06ccac2cd",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "156.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
