@@ -3,6 +3,12 @@
 Chaque version publiée a sa section ici : l'outil de publication refuse une version qui n'en
 a pas, et c'est ce texte qui accompagne la version sur GitHub.
 
+## 0.1.19
+
+- **Longueur de contexte à 32K par défaut**, au lieu de 16K : de quoi lire un compte rendu de
+  plusieurs pages et tenir une longue conversation. À baisser dans les réglages avancés si ta
+  carte graphique a peu de mémoire vidéo. Un réglage déjà enregistré n'est pas modifié.
+
 ## 0.1.18
 
 Première version publique.
