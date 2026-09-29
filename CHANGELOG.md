@@ -3,6 +3,11 @@
 Chaque version publiée a sa section ici : l'outil de publication refuse une version qui n'en
 a pas, et c'est ce texte qui accompagne la version sur GitHub.
 
+## 1.0.0
+
+Mise aux normes pour la publication sur la boutique des modules de Thunderbird
+(addons.thunderbird.net). Aucun changement de fonctionnement : DEXO passe en version 1.0.0.
+
 ## 0.1.19
 
 - **Longueur de contexte à 32K par défaut**, au lieu de 16K : de quoi lire un compte rendu de

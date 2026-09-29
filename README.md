@@ -119,7 +119,8 @@ relancer `install.ps1`.
 
 - **Tout reste sur ton poste.** Le modèle tourne dans LM Studio, sur ta machine, et DEXO
   n'envoie rien à un service extérieur. La seule connexion est celle de Thunderbird, qui
-  demande à GitHub une fois par jour s'il existe une mise à jour.
+  demande une fois par jour s'il existe une mise à jour — à GitHub, ou à la boutique des
+  modules de Thunderbird si c'est de là que tu as installé DEXO.
 - **DEXO n'envoie jamais un mail et n'enregistre jamais un brouillon à ta place.** Il ne sait
   qu'ouvrir une fenêtre de rédaction : l'envoi reste ton geste.
 - **Le contenu d'un mail ou d'une pièce jointe est une donnée, jamais un ordre.** Un message
