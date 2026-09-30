@@ -3,9 +3,9 @@
     "dexo@dexo.local": {
       "updates": [
         {
-          "version": "1.0.1",
-          "update_link": "https://github.com/AurelP3/Dexo/releases/download/v1.0.1/dexo.xpi",
-          "update_hash": "sha256:640a30e855afb3b12f3037f6ea3c1a2d3f94c97bdc9b429a0dcdc80f93bd14aa",
+          "version": "1.0.2",
+          "update_link": "https://github.com/AurelP3/Dexo/releases/download/v1.0.2/dexo.xpi",
+          "update_hash": "sha256:c1bd2e137233f5687b6a54a9c605e7553d4912707b3801d0908323761f3a390a",
           "applications": {
             "gecko": {
               "strict_min_version": "156.0"

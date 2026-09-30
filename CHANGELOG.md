@@ -3,6 +3,22 @@
 Chaque version publiée a sa section ici : l'outil de publication refuse une version qui n'en
 a pas, et c'est ce texte qui accompagne la version sur GitHub.
 
+## 1.0.2
+
+- **Règles :** plus de case « par chantier ». Un SI qui parle du chantier
+  (`{{projet.motsCles}}`…) cherche lui-même le chantier, où qu'il soit dans la règle : une
+  règle s'écrit comme on la pense — « pas d'étiquette → si c'est un chantier, sa réception ;
+  sinon si CR… ; sinon triage manuel ». Écrite ainsi, elle échouait sans la case, et avec elle
+  ne cherchait que le premier chantier de la liste. Les règles existantes continuent de marcher.
+- **Règles :** la complétion propose `{{projet…}}` dans les SI, et les dossiers du chantier sous
+  un SI qui l'a trouvé. L'enregistrement prévient quand un `{{projet…}}` est placé là où aucun
+  chantier n'aura été trouvé.
+- **Correction :** annuler une exécution de règle rend aussi les étiquettes. Quand la règle
+  avait étiqueté puis rangé un message, l'annulation le remettait bien dans son dossier mais lui
+  laissait ses étiquettes.
+- **Apparence :** le logo DEXO de la barre de gauche est bleu en thème sombre, noir en thème
+  clair. En thème sombre, Thunderbird 156 affichait le logo sombre, à peine visible.
+
 ## 1.0.1
 
 - **Correction :** le chat n'affiche plus le mot « null » au-dessus de tes messages quand ils

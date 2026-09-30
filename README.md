@@ -14,7 +14,7 @@ repère l'urgent et prépare ta réponse. Tu relis, tu envoies. Tout reste sur t
 
 | Les règles | Le fil |
 |---|---|
-| ![L'éditeur de règles : une règle « par chantier »](captures/regles.png) | ![Le fil : comptes rendus, devis, rangements douteux](captures/fil.png) |
+| ![L'éditeur de règles : chaque mail rangé dans son chantier](captures/regles.png) | ![Le fil : comptes rendus, devis, rangements douteux](captures/fil.png) |
 | Une seule règle pour tous tes chantiers : chaque mail rejoint le bon dossier, reconnu à son numéro ou à son nom. Tu la simules avant de l'activer, et tu annules d'un clic. | L'essentiel sans ouvrir chaque mail : actions tirées des comptes rendus, devis repérés avec leur montant, rangements douteux corrigés d'un clic. |
 
 ## Ce que fait DEXO
